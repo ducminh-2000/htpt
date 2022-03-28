@@ -1,0 +1,6 @@
+C:\Users\duc08\OneDrive\Desktop\Students\Code\Communications\Transient\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\duc08\OneDrive\Desktop\Students\Code\Communications\Transient\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\duc08\OneDrive\Desktop\Students\Code\Communications\Transient\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\duc08\OneDrive\Desktop\Students\Code\Communications\Transient\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\duc08\OneDrive\Desktop\Students\Code\Communications\Transient\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\duc08\OneDrive\Desktop\Students\Code\Communications\Transient\SocketServer\obj\Debug\SocketServer.pdb
