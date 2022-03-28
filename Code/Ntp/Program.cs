@@ -38,7 +38,7 @@ namespace Ntp
 				long Theta = (long)Math.Round(((ReceiveTimestamp.Ticks - OriginateSendTimestamp.Ticks) + (TransmitTimestamp.Ticks - OriginateReceiveTimestamp.Ticks)) / 2.0, 0, MidpointRounding.AwayFromZero);
 				DateTime FinalDateTime = OriginateReceiveTimestamp.AddTicks(Theta);
 				DateTimeUtils.SetDateTime(FinalDateTime.ToUniversalTime());
-				FinalDateTime = System.DateTime.Now;
+				//FinalDateTime = System.DateTime.Now;
 				Console.WriteLine("Originate Send Timestamp T1: " + OriginateSendTimestamp.ToString(FormatDateTime));
 				Console.WriteLine(Environment.NewLine);
 				Console.WriteLine("ReceiveTimestamp T2: " + ReceiveTimestamp.ToString(FormatDateTime));
